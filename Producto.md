@@ -1,21 +1,22 @@
-### Ejercicio en clase
+# Hack your hunger
 device hack your hunger.
 
-Nombre del Hungry: Hungry Hackers
-
-Miguel Sepúlveda
-Felipe Sanhueza
-Marcelo Becerra
+## Nombre del grupo:
+Hungry Hackers<br>
+- Miguel Sepúlveda
+- Felipe Sanhueza
+- Marcelo Becerra
 
 
 **Titular:** nuevo dispositivo
-	Goce: Hackea tu hambre
-**Frase de Pasión:** Tu mejor aliado a la hora de comer
+	_**Goce:**_ Hackea tu hambre. <br>
+**Frase de Pasión:** Tu mejor aliado a la hora de comer <br>
+
 **Tres mensajes claves:**
-- Desprecupáte de cómo comes.
+- Tranquilidad a la Hora de Comer.
 - Disfrutar más comida.
 - Tu conciencia en tu bolsillo.
 
-**Analogías:**
+**Analogías:** <br>
 Personal trainer para tu hambre.
-Es como hacer caída libre, te olvidas de todo y te lanzas.
+Tu Partner en el camino de ser saludable.

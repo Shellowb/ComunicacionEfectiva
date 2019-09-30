@@ -126,3 +126,10 @@ Cuenteme un caso real en dónde te fue muy mal, muy bien (trabajo en quipo, Crea
 
 **Ej. Profe Ciego**
 Profe Ciego contratado en un Colegio, no era aceptado ni por sus pares ni por los niños. Finalmente Tenía habilidades para
+
+
+# Feedback Presentaciones
+**Grupo I**
+Cuando hables hay que fijar la vista transversalmente, de manera de no cerrar el diaologo. Para incluir a los que están más lejos. <br>
+Demasiadas Slides puede ser problematico si no son un apollo a lo que se dice, sino que dan la sencación de que no alcancé a leer. <br>
+Mirar a todo el público.
