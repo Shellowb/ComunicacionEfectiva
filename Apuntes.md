@@ -105,3 +105,24 @@ Pauta lo que queda del trabajo:
 - **La característica estrella del mercado**
 Descargar y leer el libro: 6 caps.
 3 semanales.
+
+# Paradoja de la tolerancia
+> integración.
+inclusión.
+respeto.
+intolerancia.
+
+Para que la tolerancia exista en nuestra sociedad, hay que ser intolerante con la tolerancia.
+
+**Homofilia** Afinidad con los que son similares a mi.<br>
+**Discriminación arbitraria** <br>
+	- **Discriminación Positiva** Tiene que ver con equiparar la cancha. Hay sectores que han sido discriminados por tanto tiempo, que es necesario que por un tiempo (deben ser temporales) se realicen.
+
+**Ej. Política de Curriculum de Intel**
+Obviar todo lo que pueda servir como discriminación.
+Ej: Preguntar solo de trabajo en equipo.
+Creatividad.
+Cuenteme un caso real en dónde te fue muy mal, muy bien (trabajo en quipo, Creatividad).
+
+**Ej. Profe Ciego**
+Profe Ciego contratado en un Colegio, no era aceptado ni por sus pares ni por los niños. Finalmente Tenía habilidades para
